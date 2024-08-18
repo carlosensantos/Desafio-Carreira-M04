@@ -7,7 +7,14 @@
 
 - Introdução ao Docker e Docker compose
 - Introdução a Banco de Dados
-
+- Consultas SQL
+- Modelagem de Dados
+- CRUD SQL
+- Agrupamento e Relacionamento entre Tabelas
+- Conexão Node.js com PostgreSQL (paginação)
+- Autenticação e Criptografia
+- Integração com API de terceiros
+- Git e Fluxo de Trabalho em Equipe
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -37,4 +44,4 @@
 - Uma conexão entre Node.js e PostgreSQL refere-se ao processo de estabelecer uma comunicação entre uma aplicação backend escrita em Node.js e um banco de dados PostgreSQL. Essa conexão permite que a aplicação execute operações de banco de dados, como consultas SQL, inserções, atualizações e exclusões, diretamente do código JavaScript. A conexão entre Node.js e PostgreSQL é essencial para permitir que uma aplicação Node.js interaja com um banco de dados PostgreSQL, realizando operações CRUD e executando consultas SQL. Usando a biblioteca pg, você pode configurar essa conexão, executar consultas e gerenciar a comunicação entre o seu código JavaScript e o banco de dados de forma eficiente.
 - Autenticação e criptografia são componentes essenciais para a segurança de sistemas de informação, especialmente em ambientes de desenvolvimento web e APIs. Eles garantem que apenas usuários autorizados tenham acesso a recursos sensíveis e que os dados sejam transmitidos de forma segura. Autenticação garante que apenas usuários autorizados tenham acesso aos recursos, utilizando métodos como senhas, tokens JWT, e MFA. Criptografia protege a confidencialidade e integridade dos dados, utilizando técnicas como criptografia simétrica, assimétrica, e hashing. Juntos, esses conceitos são fundamentais para implementar segurança em aplicações modernas, protegendo contra acesso não autorizado e garantindo a privacidade dos dados.
 - Integração com API de terceiros refere-se ao processo de conectar sua aplicação a uma API (Interface de Programação de Aplicações) fornecida por outra empresa ou serviço para utilizar funcionalidades ou acessar dados que sua aplicação não fornece nativamente. Isso é comum em desenvolvimento de software quando você deseja adicionar funcionalidades sem precisar construir tudo do zero. A integração com APIs de terceiros é uma prática comum e poderosa no desenvolvimento de software, permitindo que sua aplicação utilize serviços e dados externos sem a necessidade de desenvolvê-los internamente. Usando ferramentas como axios e boas práticas de segurança e gestão, você pode criar integrações robustas e eficientes, agregando valor à sua aplicação com rapidez e flexibilidade.
-- Git é uma ferramenta poderosa para o controle de versão, permitindo que equipes de desenvolvimento colaborem de forma eficaz. Fluxos de trabalho em equipe definem como os desenvolvedores interagem com Git e entre si para garantir uma gestão organizada do código, seja através do Git Flow, GitHub Flow, ou GitLab Flow. Seguir boas práticas de Git e fluxo de trabalho ajuda a manter o projeto bem organizado e minimiza problemas durante o desenvolvimento colaborativo.
+- Git é uma ferramenta poderosa para o controle de versão, permitindo que equipes de desenvolvimento colaborem de forma eficaz. Fluxos de trabalho em equipe definem como os desenvolvedores interagem com Git e entre si para garantir uma gestão organizada do código. Seguir boas práticas de Git e fluxo de trabalho ajuda a manter o projeto bem organizado e minimiza problemas durante o desenvolvimento colaborativo.
